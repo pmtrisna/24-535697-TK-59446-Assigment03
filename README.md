@@ -6,7 +6,7 @@ Deskripsi:
 Problem 1 berisi analisis langkah-langkah mengitung kompleksipitas algoritma.
 Problem 2 berisi implementasi Dynamic Array menggunakan struct dan fungsi procedural.
 Problem 3 berisi implementasi Linear Search dan Binary Search.
-Problem 4 berisi analisis amortisasi cost operasi array tersebut. Diketahui Doubling lebih oke.
+Problem 4 berisi analisis amortized cost operasi array tersebut. Diketahui Doubling lebih oke.
 
 Cara Compile:
 
